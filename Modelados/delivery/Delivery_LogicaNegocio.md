@@ -77,3 +77,7 @@
 - Una orden de envío puede tener múltiples puntos de entrega (relación uno a muchos).
 
 Este diseño conceptual refleja las entidades principales de tu sistema y cómo se relacionan entre sí. Las tablas de catálogo ayudan a mantener una estructura estandarizada para ciertos atributos, como los tipos de usuarios y vehículos, mientras que las relaciones establecidas permiten gestionar eficientemente la información en la base de datos.
+
+### Modelo Relacional de la BD
+
+![Modelo Relacional de la BD](./Carreras_ModeloRelacionalBD.png)
