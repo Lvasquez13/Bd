@@ -80,4 +80,4 @@ Este diseño conceptual refleja las entidades principales de tu sistema y cómo 
 
 ### Modelo Relacional de la BD
 
-![Modelo Relacional de la BD](./entrega_ModeloRelacionalBd.png)
+![Modelo Relacional de la BD](./ ModeloRelacionalBd.png)
